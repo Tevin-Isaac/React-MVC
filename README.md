@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# E-commerce Shop
+This is a simple e-commerce shop built with react framework.
+Before you proceed with this project if you have no fundamentals about CRUD(Create,Read,Update,Delete) in React  kindly this  project link (https://github.com/Tevin-Isaac/react-crud),it contains a simple react application(https://react-crud-alpha.vercel.app/)   created by me  that will guide you and give you an overview of CRUD before you proceed  with this project.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Live site
+https://react-shop-steel.vercel.app/
+
 
 ## Available Scripts
 
@@ -27,8 +31,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
@@ -39,32 +41,28 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Back end
+Rest API using json server
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Back-end set up
+npm i json-Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Created  for front-end developers who need a quick back-end for prototyping and mocking.
+Please note you can create your own  custom REST API and use it if you need to.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+###  REST API Testing
+You can test that your API works by using Postman (https://www.postman.com/use-cases/api-testing-automation/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Extra tools
+(https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)Download,install and activate.
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
+This Application is deployed with Vercel.(https://create-react-app.dev/docs/deployment/#step-1-deploying-your-react-project-to-vercel)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
