@@ -1,6 +1,7 @@
 # E-commerce Shop
 This is a simple e-commerce shop built with react framework.
-Before you proceed with this project if you have no fundamentals about CRUD(Create,Read,Update,Delete) in React  kindly this  project link (https://github.com/Tevin-Isaac/react-crud),it contains a simple react application(https://react-crud-alpha.vercel.app/)   created by me  that will guide you and give you an overview of CRUD before you proceed  with this project.
+Before you proceed with this project if you have no fundamentals about CRUD(Create,Read,Update,Delete) in React  kindly this  project link (https://github.com/Tevin-Isaac/react-crud)
+it contains a simple react application(https://react-crud-alpha.vercel.app/)   created by me  that will guide you and give you an overview of CRUD before you proceed  with this project.
 
 ### Live site
 https://react-shop-steel.vercel.app/
